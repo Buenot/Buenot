@@ -2,7 +2,7 @@
  <h3> Tainá Bueno👋 </h3>
  
 <p align="left" style="background:yellow">
-      <a href="https://linkedin.com/in/tgmarinho](https://www.linkedin.com/in/tain%C3%A1-bueno-574424204" target="_blank">
+      <a href="https://www.linkedin.com/in/tain%C3%A1-bueno-574424204" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-TainaBueno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
       </a>
       <a href="https://instagram.com/tgmarinho](https://www.instagram.com/taina__bueno/" target="_blank">
