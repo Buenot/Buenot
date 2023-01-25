@@ -5,7 +5,7 @@
       <a href="https://www.linkedin.com/in/tain%C3%A1-bueno-574424204" target="_blank">
         <img align="center" src="https://img.shields.io/badge/-TainaBueno-05122A?style=flat&logo=linkedin" alt="linkedin"/>
       </a>
-      <a href="https://instagram.com/tgmarinho](https://www.instagram.com/taina__bueno/" target="_blank">
+      <a href="https://www.instagram.com/taina__bueno/" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-TainaBueno-05122A?style=flat&logo=instagram" alt="instagram"/>
       </a>
   </p>
